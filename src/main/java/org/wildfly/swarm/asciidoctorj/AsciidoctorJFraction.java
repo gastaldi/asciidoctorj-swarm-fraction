@@ -23,7 +23,7 @@ import org.wildfly.swarm.spi.api.annotations.DeploymentModule;
  *
  * @author <a href="mailto:ggastald@redhat.com">George Gastaldi</a>
  */
-@DeploymentModule(name = "org.asciidoctorj", export = true)
+@DeploymentModule(name = "org.asciidoctorj")
 public class AsciidoctorJFraction implements Fraction<AsciidoctorJFraction> {
 
 }
