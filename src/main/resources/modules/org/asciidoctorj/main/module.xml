@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module xmlns="urn:jboss:module:1.0" name="org.asciidoctorj">
    <resources>
-      <artifact name="org.asciidoctor:asciidoctorj:1.5.4" />
+      <artifact name="org.asciidoctor:asciidoctorj:${version.asciidoctorj}" />
       <artifact name="com.beust:jcommander:1.35" />
       <artifact name="org.jruby:jruby-complete:1.7.21" />
    </resources>
