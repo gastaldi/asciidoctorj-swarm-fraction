@@ -10,6 +10,8 @@
       <version.wildfly.swarm.fraction.plugin>55</version.wildfly.swarm.fraction.plugin>
       <version.wildfly.swarm>2017.6.1</version.wildfly.swarm>
       <version.org.arquillian>1.1.12.Final</version.org.arquillian>
+      <maven.compiler.source>1.8</maven.compiler.source>
+      <maven.compiler.target>1.8</maven.compiler.target>
    </properties>
    <dependencyManagement>
       <dependencies>
